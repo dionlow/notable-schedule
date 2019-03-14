@@ -41,22 +41,22 @@ export const SCHEDULES =
         kind: 'New Patient',
       },
       {
-        patientName: 'Sterling Archer', 
+        patientName: 'Archer A', 
         time: '9:00am',
-        kind: 'New Patient',
+        kind: 'Followup',
       },
       {
-        patientName: 'Sterling Archer', 
+        patientName: 'Spongebob', 
         time: '10:00am',
         kind: 'New Patient',
       },
       {
-        patientName: 'Sterling Archer', 
+        patientName: 'Alice Sumen', 
         time: '11:00am',
-        kind: 'New Patient',
+        kind: 'Emergency',
       },
       {
-        patientName: 'Sterling Archer', 
+        patientName: 'Strach B', 
         time: '11:30am',
         kind: 'New Patient',
       }

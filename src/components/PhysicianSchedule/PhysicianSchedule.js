@@ -16,7 +16,7 @@ const physicianSchedule = (props) => {
                     {props.schedule.map((row, index) => (
                         <ScheduleRow 
                             rowNumber={index + 1}
-                            name={row.name}
+                            name={row.patientName}
                             time={row.time}
                             kind={row.kind}
                         />

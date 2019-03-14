@@ -1,0 +1,8 @@
+{   "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "standard.autoFixOnSave": true,
+    "standard.validate": [
+        // "javascript",
+        "javascriptreact"
+    ]
+}
